@@ -7,7 +7,7 @@ The mod allows you to optimize the signs and beacons, thereby increasing your FP
     - Hiding the outline of glowing text (ON by default)
     - Convert text outline to shadow: normal mode and fast mode [Beta]
     - Fully hide the text glow effect at a distance
-    - Glow effect optimization [Бета]
+    - Glow effect optimization [Beta]
   + Beacon optimization
     - Fully hide the beacon beams at a distance
     - Hiding beams out of view (ON by default)
