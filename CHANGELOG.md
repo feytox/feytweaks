@@ -1,1 +1,1 @@
-Update to Minecraft 1.20.4
+Update to Minecraft 1.20.6

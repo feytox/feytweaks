@@ -8,7 +8,7 @@ jobs:
       contents: write
     strategy:
       matrix:
-        java: [ 17 ]
+        java: [ 21 ]
         os: [ ubuntu-22.04 ]
     runs-on: ${{ matrix.os }}
     steps:
@@ -40,10 +40,10 @@ jobs:
           curseforge-id: 663213
           curseforge-token: ${{ secrets.CURSEFORGE_TOKEN }}
 
-          name: "[1.20.4] FeyTweaks 1.2.8"
+          name: "[1.20.6] FeyTweaks 1.2.8"
           changelog-file: CHANGELOG.*
           game-versions: |
-            1.20.4
+            1.20.6
 
           dependencies: |
             fabric-api
