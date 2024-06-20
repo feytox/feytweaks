@@ -40,10 +40,10 @@ jobs:
           curseforge-id: 663213
           curseforge-token: ${{ secrets.CURSEFORGE_TOKEN }}
 
-          name: "[1.20.6] FeyTweaks 1.2.8"
+          name: "[1.21] FeyTweaks 1.2.8"
           changelog-file: CHANGELOG.*
           game-versions: |
-            1.20.6
+            1.21
 
           dependencies: |
             fabric-api
